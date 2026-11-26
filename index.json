@@ -3,30 +3,16 @@
   "modules": [
 {
     "id": "hongguo",
-    "name": "红果短剧",
-    "version": "1.0.0",
-    "description": "红果免费短剧：真人剧、漫剧、AI剧",
+    "name": "红果",
+    "version": "1.1.0",
+    "description": "短剧 · 漫剧 · AI 剧 · 听书（取流接口已适配新版）",
     "api": 1,
     "adult": false,
     "repo": "sfytj/hongguo",
-    "tag": "v1.0.0",
+    "tag": "v1.1.0",
     "sha256": {
-                   "manifest.json": "d37a0eb3472c737189117ff3b29ea4ae55bcb00ced50344eae42a3a59dcc568c",
-                   "main.js": "afb54da3eb73969a2115912bffc8262a5daf46671d98930c8481949643335e06"
-               }
-},
-{
-    "id": "jsexample",
-    "name": "JS 示例",
-    "version": "1.0.0",
-    "description": "假数据示例模块，不访问网络",
-    "api": 1,
-    "adult": false,
-    "repo": "sfytj/jsexample",
-    "tag": "v1.0.0",
-    "sha256": {
-                   "manifest.json": "b47351279d200502f2a4234de180b5d1084ce48dfcb8452a9211124b56808583",
-                   "main.js": "f17d23a23726449c047bb726acff5de7709c27fa3a076fdebb33d688e18a7923"
+                   "manifest.json": "954d72f66241f4d75b39b95f3cb44642ddd84c8daa5fad8aca8b0ff4de1bf3c1",
+                   "main.js": "cd75b8e9a57e6ad0547b790f731dfff57d9dd8e0972771c1fbeccd2394955004"
                }
 }
   ]
