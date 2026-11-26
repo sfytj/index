@@ -2,6 +2,20 @@
   "format": 1,
   "modules": [
 {
+    "id": "hongguo",
+    "name": "红果短剧",
+    "version": "1.0.0",
+    "description": "红果免费短剧：真人剧、漫剧、AI剧",
+    "api": 1,
+    "adult": false,
+    "repo": "sfytj/hongguo",
+    "tag": "v1.0.0",
+    "sha256": {
+                   "manifest.json": "4c3472b12278153e1e5fccd8b57ffd58f064a387be16670ea55cb672f99ce70c",
+                   "main.js": "3b5969bdc54d1324fbaf4440e3294910300da06f49be180b62ddb925cb8f0b94"
+               }
+},
+{
     "id": "jsexample",
     "name": "JS 示例",
     "version": "1.0.0",
