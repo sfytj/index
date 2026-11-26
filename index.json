@@ -1,19 +1,19 @@
 {
   "format": 1,
   "modules": [
-{
-    "id": "hongguo",
-    "name": "红果",
-    "version": "1.1.0",
-    "description": "短剧 · 漫剧 · AI 剧 · 听书（取流接口已适配新版）",
-    "api": 1,
-    "adult": false,
-    "repo": "sfytj/hongguo",
-    "tag": "v1.1.0",
-    "sha256": {
-                   "manifest.json": "954d72f66241f4d75b39b95f3cb44642ddd84c8daa5fad8aca8b0ff4de1bf3c1",
-                   "main.js": "cd75b8e9a57e6ad0547b790f731dfff57d9dd8e0972771c1fbeccd2394955004"
-               }
-}
+    {
+      "id": "hongguo",
+      "name": "红果",
+      "version": "1.3.0",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书/小说（App 分类/详情/取流 + 网页兜底）",
+      "api": 1,
+      "adult": false,
+      "repo": "sfytj/hongguo",
+      "tag": "v1.3.0",
+      "sha256": {
+        "manifest.json": "9aca77bb907c0ce7ccff4041c5e2a986e95893cf2db6ecdbc417b04eceba8882",
+        "main.js": "c13a8bca9984d417959ef42144a41154c2618852ac4992d98c195c6aff8ab25f"
+      }
+    }
   ]
 }
